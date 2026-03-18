@@ -1,0 +1,8 @@
+{
+    "latestVersion": "2.18.2",
+    "downloadUrl": "...",
+    "releaseNotes": "Improved automation flow and fixed edge case bugs.",
+    "minimumSupportedVersion": "2.15.0",
+    "lastUpdated": "2026-03-18",
+    "forceUpdate": false
+  }
