@@ -1,7 +1,7 @@
 {
-    "latestVersion": "2.18.2",
-    "downloadUrl": "...",
-    "releaseNotes": "Improved automation flow and fixed edge case bugs.",
+    "latestVersion": "2.19.0",
+    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/2.19.0.zip",
+    "releaseNotes": "Added Updater",
     "minimumSupportedVersion": "2.15.0",
     "lastUpdated": "2026-03-18",
     "forceUpdate": false
