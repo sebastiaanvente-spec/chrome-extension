@@ -1,8 +1,8 @@
 {
-    "latestVersion": "2.19.0",
-    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/2.19.0.zip",
+    "latestVersion": "2.19.1",
+    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/2.19.1.zip",
     "releaseNotes": "Added Updater",
-    "minimumSupportedVersion": "2.15.0",
+    "minimumSupportedVersion": "2.19.0",
     "lastUpdated": "2026-03-18",
     "forceUpdate": false
   }
