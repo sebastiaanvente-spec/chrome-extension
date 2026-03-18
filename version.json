@@ -1,5 +1,5 @@
 {
-    "latestVersion": "2.19.2",
+    "latestVersion": "2.19.1",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/2.19.1.zip",
     "releaseNotes": "Cleaned up UI",
     "minimumSupportedVersion": "2.19.0",
