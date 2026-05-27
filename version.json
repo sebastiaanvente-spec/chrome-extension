@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.2.0",
-    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/3.2.0.zip",
-    "releaseNotes": "Added CSV ready ro codes copy mapping data options to Expedia mapping file",
-    "minimumSupportedVersion": "3.0.0",
-    "lastUpdated": "2026-04-08",
+    "latestVersion": "3.4.0",
+    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/3.4.0.zip",
+    "releaseNotes": "Added QC Checks to verify API defaults, Added in-page overlay",
+    "minimumSupportedVersion": "3.4.0",
+    "lastUpdated": "2026-05-27",
     "forceUpdate": false
   }
