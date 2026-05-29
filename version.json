@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.4.2",
-    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/3.4.2.zip",
-    "releaseNotes": "Added QC Checks to verify API defaults, Added in-page overlay",
+    "latestVersion": "3.5.0",
+    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/3.5.0.zip",
+    "releaseNotes": "Added Customer Type Visibility Audit feature, updated QC checks",
     "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-05-27",
+    "lastUpdated": "2026-05-29",
     "forceUpdate": false
   }
