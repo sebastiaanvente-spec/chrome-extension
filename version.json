@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.5.0",
-    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/3.5.0.zip",
-    "releaseNotes": "Added Customer Type Visibility Audit feature, updated QC checks",
+    "latestVersion": "3.5.1",
+    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/3.5.1.zip",
+    "releaseNotes": "Updated Duplicate Customer Types to use API Endpoints instead of simulating clicks in DOM",
     "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-05-29",
+    "lastUpdated": "2026-06-01",
     "forceUpdate": false
   }
