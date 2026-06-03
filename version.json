@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.5.1",
+    "latestVersion": "3.5.11",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/3.5.11.zip",
     "releaseNotes": "Updated Duplicate Customer Types to use API Endpoints instead of simulating clicks in DOM",
     "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-06-01",
+    "lastUpdated": "2026-06-03",
     "forceUpdate": false
   }
