@@ -1,7 +1,7 @@
 {
-    "latestVersion": "3.5.11",
-    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/3.5.11.zip",
-    "releaseNotes": "Updated Duplicate Customer Types to use API Endpoints instead of simulating clicks in DOM",
+    "latestVersion": "3.5.12",
+    "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension",
+    "releaseNotes": "Added header option to GetYourGuide copy mapping data and fixed a bug with GetYourGuide and Expedia copy mapping data",
     "minimumSupportedVersion": "3.4.0",
     "lastUpdated": "2026-06-03",
     "forceUpdate": false
