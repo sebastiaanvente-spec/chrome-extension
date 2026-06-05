@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.5.12",
+    "latestVersion": "3.5.13",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Added header option to GetYourGuide copy mapping data and fixed a bug with GetYourGuide and Expedia copy mapping data",
+    "releaseNotes": "Added 'new update available' nudge to the header",
     "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-06-03",
+    "lastUpdated": "2026-06-05",
     "forceUpdate": false
   }
