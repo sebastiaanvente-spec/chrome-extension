@@ -1,7 +1,7 @@
 {
     "latestVersion": "3.5.16",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Switched Capacity checker to API endpoint checks (Faster, more accurate and includes resources). Small tweaks to the QC check",
+    "releaseNotes": "Updated Capacity Check export to clipboard",
     "minimumSupportedVersion": "3.4.0",
     "lastUpdated": "2026-06-09",
     "forceUpdate": false
