@@ -3,6 +3,6 @@
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
     "releaseNotes": "Tweaks to QC check",
     "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-06-09",
+    "lastUpdated": "2026-06-11",
     "forceUpdate": false
   }
