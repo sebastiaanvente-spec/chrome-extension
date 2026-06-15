@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.5.17",
+    "latestVersion": "3.5.18",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
     "releaseNotes": "Tweaks to QC check",
     "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-06-11",
+    "lastUpdated": "2026-06-15",
     "forceUpdate": false
   }
