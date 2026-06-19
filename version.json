@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.5.18",
+    "latestVersion": "3.6.0",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Tweaks to QC check",
+    "releaseNotes": "Added new Customer Type Mapping Display, added integrated copy mapping data button, and QC check updates",
     "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-06-15",
+    "lastUpdated": "2026-06-19",
     "forceUpdate": false
   }
