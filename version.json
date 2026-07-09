@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.6.0",
+    "latestVersion": "3.7.0",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Added new Customer Type Mapping Display, added integrated copy mapping data button, and QC check updates",
+    "releaseNotes": "Added integrated Future availabilities columns to mapping files. Added API endpoint scraping for GYG mapping files. When enabled, pulls price data and min/max data from the items and availabilities.",
     "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-06-19",
+    "lastUpdated": "2026-07-09",
     "forceUpdate": false
   }
