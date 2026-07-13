@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.7.2",
+    "latestVersion": "3.7.3",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Added integrated Future availabilities columns to mapping files. Added API endpoint scraping for GYG mapping files. When enabled, pulls price data and min/max data from the items and availabilities. Added settings to show/hide the UI integrated features. Added integrated Cancellation Policy column to affiliates list.",
-    "minimumSupportedVersion": "3.4.0",
-    "lastUpdated": "2026-07-10",
+    "releaseNotes": "Fixed bug where opening bookings on the dashboard resulted in a URL not found error",
+    "minimumSupportedVersion": "3.7.3",
+    "lastUpdated": "2026-07-13",
     "forceUpdate": false
   }
