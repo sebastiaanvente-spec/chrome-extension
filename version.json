@@ -1,5 +1,5 @@
 {
-    "latestVersion": "3.7.3",
+    "latestVersion": "3.7.4",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
     "releaseNotes": "Fixed bug where opening bookings on the dashboard resulted in a URL not found error",
     "minimumSupportedVersion": "3.7.3",
