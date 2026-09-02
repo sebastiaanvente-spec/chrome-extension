@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.7.5",
+    "latestVersion": "3.7.6",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Fixed couple of bugs and future-proved the extension",
+    "releaseNotes": "Added reservation hold logic to Capacity Check",
     "minimumSupportedVersion": "3.7.3",
-    "lastUpdated": "2026-08-10",
+    "lastUpdated": "2026-09-02",
     "forceUpdate": false
   }
