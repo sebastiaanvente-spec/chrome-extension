@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.7.6",
+    "latestVersion": "3.7.7",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Added reservation hold logic to Capacity Check",
+    "releaseNotes": "Updated QC check to allow cancellation policy with 24 hours",
     "minimumSupportedVersion": "3.7.3",
-    "lastUpdated": "2026-09-02",
+    "lastUpdated": "2026-09-15",
     "forceUpdate": false
   }
