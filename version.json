@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.7.9",
+    "latestVersion": "3.7.10",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Fixed bug for Duplicate Customer Type and bug for can_generate_booking_links in QC check",
+    "releaseNotes": "Duplicate Customer Type now defaults to updating the original, with opt-out to leave the original untouched. First Customer Type (01-01) now no longer has minimum of 1",
     "minimumSupportedVersion": "3.7.3",
-    "lastUpdated": "2026-09-15",
+    "lastUpdated": "2026-09-29",
     "forceUpdate": false
   }
