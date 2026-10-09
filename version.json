@@ -1,7 +1,7 @@
 {
-    "latestVersion": "3.7.10",
+    "latestVersion": "3.8.2",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Duplicate Customer Type now defaults to updating the original, with opt-out to leave the original untouched. First Customer Type (01-01) now no longer has minimum of 1",
+    "releaseNotes": "Added mapping tools field to channel items, added item status column to channel mappings",
     "minimumSupportedVersion": "3.7.3",
     "lastUpdated": "2026-09-29",
     "forceUpdate": false
