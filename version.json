@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.8.3",
+    "latestVersion": "3.8.4",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Added mapping tools field to channel items, added item status column to channel mappings",
+    "releaseNotes": "Removed cancellation policy column, now native to FH. Added mapping tools options.",
     "minimumSupportedVersion": "3.7.3",
-    "lastUpdated": "2026-09-29",
+    "lastUpdated": "2026-10-20",
     "forceUpdate": false
   }
