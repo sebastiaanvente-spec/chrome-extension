@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.8.4",
+    "latestVersion": "3.8.6",
     "downloadUrl": "https://github.com/sebastiaanvente-spec/chrome-extension/raw/refs/heads/main/extension.zip",
-    "releaseNotes": "Removed cancellation policy column, now native to FH. Added mapping tools options.",
+    "releaseNotes": "Updated Airbnb QC Check, Added Location information to Google mapping files, updated link for jump to > integrations tab",
     "minimumSupportedVersion": "3.7.3",
-    "lastUpdated": "2026-10-20",
+    "lastUpdated": "2026-10-29",
     "forceUpdate": false
   }
